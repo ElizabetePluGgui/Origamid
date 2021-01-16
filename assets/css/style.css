@@ -167,10 +167,14 @@ body {
     height: 100px;
     width: 100px;
   }
-
+  #img-iphone {
+    width: 267px;
+    height: 500px;
+    margin-left: -330px;
+  }
   .profile-pic img {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
   }
 
   .group {
