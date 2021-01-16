@@ -19,7 +19,11 @@ body {
   display: flex;
   justify-content: center;
 }
-
+#img-iphone {
+  width: 267px;
+  height: 500px;
+  margin-left: -330px;
+}
 .instagram-wraper {
   display: flex;
   align-content: center;
@@ -132,11 +136,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-  background-image: url('img/kisspng-app-store-apple-iphone-grand-mercure-mysuru-5b04f9d978c4b8.2372208115270527614947.png');
+  background-image: url('./assets/images/kisspng-app-store-apple-iphone-grand-mercure-mysuru-5b04f9d978c4b8.2372208115270527614947.png');
 }
 
 .app-download:nth-child(2) {
-  background-image: url('img/googleplaylogo.png');
+  background-image: url('./assets/images/googleplaylogo.png');
 }
 
 @media (max-width: 1024px) {
